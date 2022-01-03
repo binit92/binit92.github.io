@@ -1,14 +1,28 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+## Professional Experience
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+**Harman Connected Services**     |     *Senior Software Engineer, April 2014 – August 2020*
++ Developed Android modules for device management and FOTA update using Marimba technologies.
++ Developed logcollector, analysis and prediction modules using Elastic Search and Logstash
++ Developed low cost proxy server on Raspberry Pi that integrates with Marimba components
++ Ported Marimba components to Linux ARM embedded platform
++ Ported RSA-SSL modules to pure Java SSL implementation to support TLS 1.2 in Marimba – owned resolution tasks of escalations/defects/RFEs from support team
++ Provided technical training, POCs, and conducted interviews for Dev, QA and support roles
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+**Udacity**  | *Independent Consultant, October 2017 - Present*
++ I mentor and review projects of students enrolled in Deep Learning Courses at Udacity
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Projects
+
+**OpenWARP** | *Opensource Contributor, August 2016 - October 2016*
++ In series of paid challenges from Topcoder, I have created installer for Windows, Linux and Mac.
++ created test scripts to test geometries by porting third party libraries, bug-fixing and documentation.
+
+**MOOC Projects** | *Student, August 2016 - June 2018*
++ Udacity Flying Car Nanodegree - completed backyard-flyer, motion-planning, flight-controller and estimation projects
++ Udacity Deep Learning Nanodegree - completed bike-ride-prediction, sentiment-analysis using IMDB data, dog-image-classification using CNN, tv-script-generation using RNN and face-generation using GAN projects
++ Udacity Android Nanodegree - completed the-moviedb-app, baking-app and waxtree-app projects.
+
+
+
+Binit Kumar (@binit92)
