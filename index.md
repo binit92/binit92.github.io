@@ -1,6 +1,15 @@
+---
+layout: default
+title: Home
+
+---
+
+
 ## :monkey: About Me
 
-The first computer that I have used was also first computer in my village's school, Windows 95 and the first program was a simple batch script using windows commands. A lot of time has passed since then and I am still fascinated by the technology, pace of innovation and domain of possibilities. After working for 8+ years as a senior software engineer on different tech stacks and products, I am taking a pause to **think and learn system design** and how to architect data intensive and compute intensive applications. I believe that a `sense of direction` and deciding `what to work on` are as important if not more as `working hard` and `finding great peers`. Personally, I am an easy going individual who believes in working hard and spreading love, although my friends find me geeky about movies, ideas and things.
+I am fascinated by the technology, pace of innovation and domain of possibilities. After working for 8+ years as a senior software engineer on different tech stacks and products, I am taking a pause to **think and learn system design** and how to architect data intensive and compute intensive applications. 
+
+I believe that a `sense of direction` and deciding `what to work on` are as important if not more as `working hard` and `finding great peers`. Personally, I am an easy going individual who believes in working hard and spreading love, although my friends find me geeky about movies, ideas and things.
 
 ## :mortar_board: Education
 + Masters in Applied Computer Science, Concordia University, Montreal, Canada | 2021- 2022
