@@ -1,6 +1,8 @@
 title: Binit Kumar
 description: 
 email: 'kumar.binit1992@gmail.com'
+
+
 description: "I'm a software and data engineer from Montreal creating useful apps."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://binit92.github.io" # the base hostname & protocol for your site, e.g. https://example.com
@@ -9,8 +11,7 @@ github_username: 'binit92'
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
-plugins:
-  - jemoji
+
 
 gems:
   - jekyll-mentions
