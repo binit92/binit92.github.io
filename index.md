@@ -9,7 +9,7 @@ title: Home
 
 I am fascinated by the technology, pace of innovation and domain of possibilities. After working for 8+ years as a senior software engineer on different tech stacks and products, I am taking a pause to **think and learn system design** and how to architect data intensive and compute intensive applications. 
 
-I believe that a `sense of direction` and deciding `what to work on` are as important if not more as `working hard` and `finding great peers`. Personally, I am an easy going individual who believes in working hard and spreading love, although my friends find me geeky about movies, ideas and things.
+I believe that a "deciding what to work on and finding great peers" are as important if not more as "working hard". Personally, I am an easy going individual who believes in working hard and spreading love, although my friends find me geeky about movies, ideas and things.
 
 ## Education
 > Masters in Applied Computer Science, Concordia University|  Montreal, Canada | 2021- 2022
